@@ -23,6 +23,7 @@ import net.ivanvega.actividadesenandorid.data.Usuario;
 import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
+
     Spinner spn;
 
     @Override
